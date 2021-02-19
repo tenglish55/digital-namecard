@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:Molly@MollyinMotion.com
 TEL;type=WORK;type=VOICE:+215 840-4060
 item1.ADR;type=WORK;type=pref:;;Virtual Appointments via Zoom
 item1.X-ABADR:sg
-item2.URL;type=pref:MollyinMotion.com
+item2.URL;type=pref:www.mollyinmotion.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
