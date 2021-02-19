@@ -5,8 +5,8 @@ N:O'Neill; Molly;;;
 FN: Molly  O'Neill 
 ORG:Molly in Motion LLC;
 TITLE:Founder Molly in Motion LLC
-EMAIL;type=INTERNET;type=WORK;type=pref:Molly@MollyinMotion.com
-TEL;type=WORK;type=VOICE:+215 840-4060
+EMAIL;type=INTERNET;type=EMAIL;type=pref:Molly@MollyinMotion.com
+TEL;type=CELL;type=VOICE:+215 840-4060
 item1.ADR;type=WORK;type=pref:;;Virtual Appointments via Zoom / Follow me on IG @molly.in.motion
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.mollyinmotion.com/
